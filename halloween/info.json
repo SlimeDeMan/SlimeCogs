@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Slime",
+    "INSTALL_MSG" : "Thank you for using my cog!",
+    "NAME" : "HalloweenClock",
+    "SHORT" : "Shows the time until halloween.",
+    "DESCRIPTION" : "Displays how many days until halloween.",
+    "TAGS" : ["halloween", "clock", "days"],
+    "REQUIREMENTS" : ["tabulate", "Pillow"],
+    "HIDDEN" : false
+}
