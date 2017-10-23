@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Slime",
+    "INSTALL_MSG" : "Thank you for using my cog!",
+    "NAME" : "Coms",
+    "SHORT" : "Displays how many cogs and commands there are.",
+    "DESCRIPTION" : "Displays how many cogs and commands there are.",
+    "TAGS" : ["Coms", "Commands", "Cogs", "Numbers", "Lists"],
+    "REQUIREMENTS" : ["tabulate", "Pillow"],
+    "HIDDEN" : false
+}
