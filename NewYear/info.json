@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Slime",
+    "INSTALL_MSG" : "Thank you for using my cog!",
+    "NAME" : "NewYear",
+    "SHORT" : "Shows the time until new year.",
+    "DESCRIPTION" : "Displays how many days until new year.",
+    "TAGS" : ["newyear", "clock", "days", "new", "year"],
+    "REQUIREMENTS" : ["tabulate", "Pillow"],
+    "HIDDEN" : false
+}
