@@ -1,0 +1,10 @@
+{
+    "AUTHOR" : "Slime",
+    "INSTALL_MSG" : "Thank you for using my cog!",
+    "NAME" : "Race-Rewrited",
+    "SHORT" : "Race slow turtles",
+    "DESCRIPTION" : "Race your friends as a turtle!",
+    "TAGS" : ["race", "rewrite"],
+    "REQUIREMENTS" : ["tabulate", "Pillow"],
+    "HIDDEN" : false
+}
